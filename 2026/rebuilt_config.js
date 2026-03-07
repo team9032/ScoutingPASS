@@ -236,14 +236,16 @@ var config_data = `
       "type": "text",
       "rows": 4,
       "size": 30,
-      "maxSize": 500
+      "maxSize": 500,
+      "height": '200px'
     },
     { "name": "Off Cycle Comments",
       "code": "cof",
       "type": "text",
       "rows": 4,
       "size": 30,
-      "maxSize": 500
+      "maxSize": 500,
+      "height": '200px'
     },
     { "name": "Comments",
       "code": "co",
