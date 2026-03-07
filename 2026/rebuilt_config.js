@@ -237,7 +237,7 @@ var config_data = `
       "rows": 4,
       "size": 30,
       "maxSize": 500,
-      "height": '200px'
+      "height": '1000px'
     },
     { "name": "Off Cycle Comments",
       "code": "cof",
@@ -245,7 +245,7 @@ var config_data = `
       "rows": 4,
       "size": 30,
       "maxSize": 500,
-      "height": '200px'
+      "height": '1000px'
     },
     { "name": "Comments",
       "code": "co",
