@@ -235,13 +235,13 @@ var config_data = `
       "code": "pen",
       "type": "bool"
     },
-    { "name": "Comments On-Cycle",
+    { "name": "Comments OnCycle",
       "code": "con",
       "type": "text",
       "size": 15,
       "maxSize": 500
     },
-    { "name": "Comments Off-Cycle",
+    { "name": "Comments OffCycle",
       "code": "cof",
       "type": "text",
       "size": 15,
