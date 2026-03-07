@@ -240,13 +240,13 @@ var config_data = `
       "type": "text",
       "size": 15,
       "maxSize": 500
-    }
+    },
     { "name": "Comments Off-Cycle",
       "code": "cof",
       "type": "text",
       "size": 15,
       "maxSize": 500
-    }
+    },
     { "name": "Comments",
       "code": "co",
       "type": "text",
