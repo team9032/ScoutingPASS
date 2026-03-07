@@ -231,21 +231,24 @@ var config_data = `
       "code": "pen",
       "type": "bool"
     },
-    { "name": "Comments OnCycle",
+    { "name": "On Cycle Comments",
       "code": "con",
       "type": "text",
+      "rows": 4,
       "size": 15,
       "maxSize": 500
     },
-    { "name": "Comments OffCycle",
+    { "name": "Off Cycle Comments",
       "code": "cof",
       "type": "text",
+      "rows": 4,
       "size": 15,
       "maxSize": 500
     },
     { "name": "Comments",
       "code": "co",
       "type": "text",
+      "rows": 4,
       "size": 15,
       "maxSize": 500
     }
