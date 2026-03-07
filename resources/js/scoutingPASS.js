@@ -221,7 +221,7 @@ function addCounter(table, idx, name, data) {
       input.style.touchAction = 'manipulation';
     }
 	if (type === "text") {
-		input.style.height = 200;
+		input.style.height = '200px';
 	}
     return input;
   };
@@ -1490,6 +1490,7 @@ window.onload = function () {
     }
   }
 };
+
 
 
 
