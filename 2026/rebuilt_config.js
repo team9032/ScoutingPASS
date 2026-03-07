@@ -235,21 +235,21 @@ var config_data = `
       "code": "con",
       "type": "text",
       "rows": 4,
-      "size": 15,
+      "size": 30,
       "maxSize": 500
     },
     { "name": "Off Cycle Comments",
       "code": "cof",
       "type": "text",
       "rows": 4,
-      "size": 15,
+      "size": 30,
       "maxSize": 500
     },
     { "name": "Comments",
       "code": "co",
       "type": "text",
       "rows": 4,
-      "size": 15,
+      "size": 30,
       "maxSize": 500
     }
   ]
