@@ -242,6 +242,18 @@ var config_data = `
       "min": 0,
       "max": 100
     },
+    { "name": "Comments On-Cycle",
+      "code": "con",
+      "type": "text",
+      "size": 15,
+      "maxSize": 55
+    }
+    { "name": "Comments Off-Cycle",
+      "code": "cof",
+      "type": "text",
+      "size": 15,
+      "maxSize": 55
+    }
     { "name": "Comments",
       "code": "co",
       "type": "text",
