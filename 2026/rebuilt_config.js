@@ -236,7 +236,7 @@ var config_data = `
       "type": "text",
       "rows": 4,
       "size": 30,
-      "maxSize": 500,
+      "maxSize": 500
     },
     { "name": "Off Cycle Comments",
       "code": "cof",
