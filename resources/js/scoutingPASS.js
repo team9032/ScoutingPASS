@@ -220,9 +220,9 @@ function addCounter(table, idx, name, data) {
     if (type === "button") {
       input.style.touchAction = 'manipulation';
     }
-	if (type === "text") {
-		input.style.height = '1000px';
-	}
+	  
+	input.style.height = '1000px';
+	  
     return input;
   };
 
@@ -1490,6 +1490,7 @@ window.onload = function () {
     }
   }
 };
+
 
 
 
